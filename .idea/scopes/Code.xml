@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Code" pattern="file:*.c||file:*.h||file:Make*||file:*.conf||file:*.pl||file:*.sh" />
+</component>
